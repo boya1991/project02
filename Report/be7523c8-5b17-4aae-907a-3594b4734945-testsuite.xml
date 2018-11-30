@@ -1,0 +1,490 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1543562191479" stop="1543562311656">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1543562191479" status="passed" stop="1543562220068">
+      <name>TestLogin.test_login[17611787857-123456-yyyboya-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18064-MainThread"/>
+        <label name="host" value="DESKTOP-BQM95SJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1543562191480" status="passed" stop="1543562192964">
+          <name>点击我</name>
+          <title>点击我</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1543562192964" status="passed" stop="1543562194920">
+          <name>点击 已有账号，去登录</name>
+          <title>点击 已有账号，去登录</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1543562194920" status="passed" stop="1543562220068">
+          <name>执行登录测试</name>
+          <title>执行登录测试</title>
+          <attachments/>
+          <steps>
+            <step start="1543562194920" status="passed" stop="1543562197091">
+              <name>输入 用户名</name>
+              <title>输入 用户名</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562197091" status="passed" stop="1543562198108">
+              <name>输入 密码</name>
+              <title>输入 密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562198108" status="passed" stop="1543562198621">
+              <name>点击 登录</name>
+              <title>点击 登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562198621" status="passed" stop="1543562200269">
+              <name>获取登_录后的昵称</name>
+              <title>获取登_录后的昵称</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562200269" status="passed" stop="1543562201659">
+              <name>点击设置</name>
+              <title>点击设置</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562201659" status="passed" stop="1543562215366">
+              <name>拖拽 消息推送-&gt;修改密码</name>
+              <title>拖拽 消息推送-&gt;修改密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562215366" status="passed" stop="1543562216035">
+              <name>点击 退出</name>
+              <title>点击 退出</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562216035" status="passed" stop="1543562217516">
+              <name>确认 退出</name>
+              <title>确认 退出</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562217516" status="passed" stop="1543562218236">
+              <name>点击我</name>
+              <title>点击我</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562218236" status="passed" stop="1543562220068">
+              <name>点击 已有账号，去登录</name>
+              <title>点击 已有账号，去登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1543562220069" status="passed" stop="1543562245871">
+      <name>TestLogin.test_login[ 17611787857 -123456-yyyboya-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18064-MainThread"/>
+        <label name="host" value="DESKTOP-BQM95SJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1543562220071" status="passed" stop="1543562245870">
+          <name>执行登录测试</name>
+          <title>执行登录测试</title>
+          <attachments/>
+          <steps>
+            <step start="1543562220071" status="passed" stop="1543562222275">
+              <name>输入 用户名</name>
+              <title>输入 用户名</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562222275" status="passed" stop="1543562223308">
+              <name>输入 密码</name>
+              <title>输入 密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562223308" status="passed" stop="1543562223824">
+              <name>点击 登录</name>
+              <title>点击 登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562223824" status="passed" stop="1543562225750">
+              <name>获取登_录后的昵称</name>
+              <title>获取登_录后的昵称</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562225750" status="passed" stop="1543562225934">
+              <name>点击设置</name>
+              <title>点击设置</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562225934" status="passed" stop="1543562241202">
+              <name>拖拽 消息推送-&gt;修改密码</name>
+              <title>拖拽 消息推送-&gt;修改密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562241202" status="passed" stop="1543562241771">
+              <name>点击 退出</name>
+              <title>点击 退出</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562241771" status="passed" stop="1543562243258">
+              <name>确认 退出</name>
+              <title>确认 退出</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562243258" status="passed" stop="1543562244087">
+              <name>点击我</name>
+              <title>点击我</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562244087" status="passed" stop="1543562245870">
+              <name>点击 已有账号，去登录</name>
+              <title>点击 已有账号，去登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1543562245872" status="passed" stop="1543562271899">
+      <name>TestLogin.test_login[yyyboya-123456-yyyboya-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18064-MainThread"/>
+        <label name="host" value="DESKTOP-BQM95SJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1543562245873" status="passed" stop="1543562271898">
+          <name>执行登录测试</name>
+          <title>执行登录测试</title>
+          <attachments/>
+          <steps>
+            <step start="1543562245873" status="passed" stop="1543562248078">
+              <name>输入 用户名</name>
+              <title>输入 用户名</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562248078" status="passed" stop="1543562249207">
+              <name>输入 密码</name>
+              <title>输入 密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562249207" status="passed" stop="1543562249724">
+              <name>点击 登录</name>
+              <title>点击 登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562249724" status="passed" stop="1543562251615">
+              <name>获取登_录后的昵称</name>
+              <title>获取登_录后的昵称</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562251615" status="passed" stop="1543562251802">
+              <name>点击设置</name>
+              <title>点击设置</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562251802" status="passed" stop="1543562267257">
+              <name>拖拽 消息推送-&gt;修改密码</name>
+              <title>拖拽 消息推送-&gt;修改密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562267257" status="passed" stop="1543562267875">
+              <name>点击 退出</name>
+              <title>点击 退出</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562267875" status="passed" stop="1543562269367">
+              <name>确认 退出</name>
+              <title>确认 退出</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562269367" status="passed" stop="1543562270057">
+              <name>点击我</name>
+              <title>点击我</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562270057" status="passed" stop="1543562271898">
+              <name>点击 已有账号，去登录</name>
+              <title>点击 已有账号，去登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1543562271899" status="passed" stop="1543562297335">
+      <name>TestLogin.test_login[ yyyboya -123456-yyyboya-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18064-MainThread"/>
+        <label name="host" value="DESKTOP-BQM95SJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1543562271900" status="passed" stop="1543562297335">
+          <name>执行登录测试</name>
+          <title>执行登录测试</title>
+          <attachments/>
+          <steps>
+            <step start="1543562271900" status="passed" stop="1543562273591">
+              <name>输入 用户名</name>
+              <title>输入 用户名</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562273591" status="passed" stop="1543562274324">
+              <name>输入 密码</name>
+              <title>输入 密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562274324" status="passed" stop="1543562275057">
+              <name>点击 登录</name>
+              <title>点击 登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562275057" status="passed" stop="1543562276584">
+              <name>获取登_录后的昵称</name>
+              <title>获取登_录后的昵称</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562276584" status="passed" stop="1543562276767">
+              <name>点击设置</name>
+              <title>点击设置</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562276768" status="passed" stop="1543562292008">
+              <name>拖拽 消息推送-&gt;修改密码</name>
+              <title>拖拽 消息推送-&gt;修改密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562292008" status="passed" stop="1543562292660">
+              <name>点击 退出</name>
+              <title>点击 退出</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562292660" status="passed" stop="1543562294150">
+              <name>确认 退出</name>
+              <title>确认 退出</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562294150" status="passed" stop="1543562295420">
+              <name>点击我</name>
+              <title>点击我</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562295420" status="passed" stop="1543562297335">
+              <name>点击 已有账号，去登录</name>
+              <title>点击 已有账号，去登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1543562297336" status="passed" stop="1543562301702">
+      <name>TestLogin.test_login[ 17611787857 -12345611-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18064-MainThread"/>
+        <label name="host" value="DESKTOP-BQM95SJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1543562297337" status="passed" stop="1543562301702">
+          <name>执行登录测试</name>
+          <title>执行登录测试</title>
+          <attachments/>
+          <steps>
+            <step start="1543562297337" status="passed" stop="1543562299424">
+              <name>输入 用户名</name>
+              <title>输入 用户名</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562299424" status="passed" stop="1543562300476">
+              <name>输入 密码</name>
+              <title>输入 密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562300476" status="passed" stop="1543562300991">
+              <name>点击 登录</name>
+              <title>点击 登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1543562301703" status="passed" stop="1543562305221">
+      <name>TestLogin.test_login[ 17611787854 -12345612-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18064-MainThread"/>
+        <label name="host" value="DESKTOP-BQM95SJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1543562301704" status="passed" stop="1543562305220">
+          <name>执行登录测试</name>
+          <title>执行登录测试</title>
+          <attachments/>
+          <steps>
+            <step start="1543562301704" status="passed" stop="1543562302792">
+              <name>输入 用户名</name>
+              <title>输入 用户名</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562302792" status="passed" stop="1543562303823">
+              <name>输入 密码</name>
+              <title>输入 密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562303823" status="passed" stop="1543562304340">
+              <name>点击 登录</name>
+              <title>点击 登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1543562305222" status="passed" stop="1543562308427">
+      <name>TestLogin.test_login[yyyboya-12345611-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18064-MainThread"/>
+        <label name="host" value="DESKTOP-BQM95SJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1543562305222" status="passed" stop="1543562308427">
+          <name>执行登录测试</name>
+          <title>执行登录测试</title>
+          <attachments/>
+          <steps>
+            <step start="1543562305222" status="passed" stop="1543562306264">
+              <name>输入 用户名</name>
+              <title>输入 用户名</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562306264" status="passed" stop="1543562307284">
+              <name>输入 密码</name>
+              <title>输入 密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562307284" status="passed" stop="1543562307804">
+              <name>点击 登录</name>
+              <title>点击 登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1543562308428" status="passed" stop="1543562311656">
+      <name>TestLogin.test_login[yyyboyaaa-12345611-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18064-MainThread"/>
+        <label name="host" value="DESKTOP-BQM95SJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1543562308429" status="passed" stop="1543562311656">
+          <name>执行登录测试</name>
+          <title>执行登录测试</title>
+          <attachments/>
+          <steps>
+            <step start="1543562308429" status="passed" stop="1543562309461">
+              <name>输入 用户名</name>
+              <title>输入 用户名</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562309461" status="passed" stop="1543562310476">
+              <name>输入 密码</name>
+              <title>输入 密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1543562310477" status="passed" stop="1543562310989">
+              <name>点击 登录</name>
+              <title>点击 登录</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

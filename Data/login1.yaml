@@ -1,0 +1,32 @@
+ak_login_001:
+  username: "17611787857"
+  password: "123456"
+  expect_result: "yyyboya"
+ak_login_002:
+  username: " 17611787857 "
+  password: "123456"
+  expect_result: "yyyboya"
+ak_login_003:
+  username: "yyyboya"
+  password: "123456"
+  expect_result: "yyyboya"
+ak_login_004:
+  username: " yyyboya "
+  password: "123456"
+  expect_result: "yyyboya"
+ak_login_005:
+  username: " 17611787857 "
+  password: "12345611"
+  expect_toast: "登录密码错误"
+ak_login_006:
+  username: " 17611787854 "
+  password: "12345612"
+  expect_toast: "此用户不存在"
+ak_login_007:
+  username: "yyyboya"
+  password: "12345611"
+  expect_toast: "登录密码错误"
+ak_login_008:
+  username: "yyyboyaaa"
+  password: "12345611"
+  expect_toast: "此用户不存在"
